@@ -1,0 +1,2 @@
+City Name: ka | Population: 1200 | Mayor Name: ali
+City Name: isl | Population: 4000 | Mayor Name: sam
